@@ -8,6 +8,7 @@ export type RecordsResponse = {
 
 }
 
+//Criando tipo recordItem
 export type RecordItem = {
     id: number;
     moment: string;
