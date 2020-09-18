@@ -41,12 +41,12 @@ public class GameDTO implements Serializable {
 		this.id = id;
 	}
 
-	public String getTile() {
+	public String getTitle() {
 		return title;
 	}
 
-	public void setTile(String tile) {
-		this.title = tile;
+	public void setTitle(String title) {
+		this.title = title;
 	}
 
 	public Platform getPlatform() {

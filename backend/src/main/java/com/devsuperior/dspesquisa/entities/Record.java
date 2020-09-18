@@ -1,5 +1,6 @@
 package com.devsuperior.dspesquisa.entities;
 
+
 import java.io.Serializable;
 import java.time.Instant;
 
